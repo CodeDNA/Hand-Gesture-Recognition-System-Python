@@ -8,4 +8,4 @@ Machine Learning Project. Hand Gesture Classification Using Convolutional Neural
 4) Run the script.
 
 ## Important: 
-keep the 'dataset' folder,'prediction-Image' and 'Hand_Gesture_Classification.py' file in the same directory. Otherwise, you will have to edit the paths in the code for 'training_set', 'test_set' and 'image' variable.
+Keep the 'dataset' folder,'prediction-Image' folder and 'Hand_Gesture_Classification.py' file in the same directory. Otherwise, you will have to edit the paths in the code for 'training_set', 'test_set' and 'image' variable.
