@@ -1,7 +1,7 @@
 # Machine Learning
 Machine Learning Project. Hand Gesture Classification Using Convolutional Neural Network
 
-#Instructions to run the script
+# Instructions to run the script
 1) Open the script in your preferred IDE.
 2) Install Python (preferred version 3.7) as your preferred interpreter and install Keras and NumPy library.
 3) Paste the image that you want to predict in the prediction_Image forder and rename it as "predict.jpg".
