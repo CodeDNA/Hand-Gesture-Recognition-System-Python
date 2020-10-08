@@ -1,5 +1,4 @@
-# Machine Learning
-Machine Learning Project. Hand Gesture Classification Using Convolutional Neural Network
+# Hand Gesture Classification Using Convolutional Neural Network
 
 # Instructions to run the script
 1) Open the script in your preferred IDE.
